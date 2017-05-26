@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_region"
+            android:icon="@drawable/icon_gridplace"
+            android:title="@string/region" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/icon_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_sights"
+            android:icon="@drawable/icon_sights"
+            android:title="@string/sights" />
+        <item
+            android:id="@+id/nav_activities"
+            android:icon="@drawable/icon_activities"
+            android:title="@string/activities" />
+        <item
+            android:id="@+id/nav_nature"
+            android:icon="@drawable/icon_nature"
+            android:title="@string/nature" />
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/icon_tradition"
+            android:title="@string/products" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/icon_map"
+            android:title="@string/map" />
+        <item
+            android:id="@+id/nav_app_info"
+            android:icon="@drawable/icon_appinfo"
+            android:title="@string/app_info" />
+    </group>
+</menu>

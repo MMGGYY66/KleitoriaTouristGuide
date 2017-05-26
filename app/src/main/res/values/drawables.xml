@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="splash_animation15" type="drawable">@drawable/an1</item>
+    <item name="splash_animation2" type="drawable">@drawable/an2</item>
+    <item name="splash_animation3" type="drawable">@drawable/an3</item>
+    <item name="splash_animation4" type="drawable">@drawable/an4</item>
+    <item name="splash_animation5" type="drawable">@drawable/an5</item>
+    <item name="splash_animation6" type="drawable">@drawable/an6</item>
+    <item name="splash_animation7" type="drawable">@drawable/an7_en</item>
+    <item name="main_icon" type="drawable">@drawable/icon_small</item>
+</resources>

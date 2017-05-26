@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kleitoria Tourist Guide</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="region">Region</string>
+    <string name="history">History</string>
+    <string name="sights">Sights</string>
+    <string name="activities">Activities</string>
+    <string name="nature">Nature</string>
+    <string name="products">Products</string>
+    <string name="map">Map</string>
+    <string name="app_info">App Info</string>
+    <string name="nav_bar_title">Kleitoria Tourist Guide</string>
+    <string name="email" translatable="false">lsourtzo@gmail.com</string>
+    <string name="doubleClick">Please click back again to exit.</string>
+    <string name="noInternetConnection">There is no Internet connection.</string>
+    <string name="infoText">The application was created within the framework of the Udacity Training and Goggle\n\nAndroid Developer Nanodegree Program.\n\nIts purpose is to highlight the special beauty and history of one of the most historic regions of Greece.</string>
+    <string name="myDetails">Sourtzopoulos Leonidas\nemail:lsourtzo@gmail.com\nphone:00306974649056</string>
+</resources>

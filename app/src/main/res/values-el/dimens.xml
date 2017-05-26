@@ -1,0 +1,5 @@
+<resources>
+    <!-- Drawer Item -->
+    <dimen name="item_text_size">20sp</dimen>
+
+</resources>

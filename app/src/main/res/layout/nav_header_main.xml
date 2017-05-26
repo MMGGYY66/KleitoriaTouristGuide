@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/nav_header_height">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_bar_image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/planitero"/>
+
+    <TextView
+        android:id="@+id/nav_bar_title"
+        android:layout_above="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="@dimen/nav_header_Title_Text"
+        android:textColor="@color/textTitleColor"
+        android:paddingLeft="@dimen/nav_header_vertical_spacing"
+        android:background="@drawable/side_nav_bar"
+        android:text="@string/nav_bar_title"
+        android:textStyle="bold"
+        android:shadowColor="@color/shadowtextColor"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="5"/>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/nav_header_Text"
+        android:textColor="@color/textColor"
+        android:layout_marginBottom="@dimen/nav_title_bottom_spacing"
+        android:paddingLeft="@dimen/nav_header_vertical_spacing"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/side_nav_bar"
+        android:text="@string/email"
+        android:textStyle="bold"
+        android:shadowColor="@color/shadowtextColor"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="5"/>
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="splash_animation7" type="drawable">@drawable/an7_el</item>
+    <item name="main_icon" type="drawable">@drawable/icon_el_small</item>
+</resources>

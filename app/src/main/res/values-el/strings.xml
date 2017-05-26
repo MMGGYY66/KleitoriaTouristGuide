@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Οδηγός Κλειτορίας Καλαβρύτων</string>
+    <string name="action_settings">Ryum</string>
+    <string name="activities">Δραστηριότητες</string>
+    <string name="app_info">Πληροφορίες</string>
+    <string name="doubleClick">Παρακαλώ ξανά πατήστε το πίσω για έξοδο.</string>
+    <string name="history">Ιστορία</string>
+    <string name="map">Χάρτης</string>
+    <string name="nature">Φύση</string>
+    <string name="nav_bar_title">Oδηγός Κλειτορίας Καλαβρύτων</string>
+    <string name="products">Προιόντα</string>
+    <string name="region">Περιοχή</string>
+    <string name="sights">Αξιοθέατα</string>
+    <string name="noInternetConnection">Δεν υπάρχει σύνδεση με το Διαδίκτυο.</string>
+    <string name="infoText">Η εφαρμογή δημιουργήθηκε στο πλαίσιο του εκπαιδευτικού σεμιναρίου της Udacity και της Goggle\n\nAndroid Developer Nanodegree Program.\n\nΣκοπός της είναι να αναδείξει την ιδιαίτερη ομορφιά και Ιστορία για μία από τις Ιστορικότερες περιοχές της Ελλάδας.</string>
+    <string name="myDetails">Σουρτζόπουλος Λεωνίδας\nemail:lsourtzo@gmail.com\nτηλ:6974649056</string>
+</resources>
